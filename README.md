@@ -1,13 +1,13 @@
 [![MasterHead](https://i.pinimg.com/564x/b0/0b/9f/b00b9f137495a5c7b63b8918263e3c7d.jpg)]
 <h1 align="center">Hi 👋, I'm Giorgi Beroshvili</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
-<img align="right" alt="Coding" width="330" src="https://i.pinimg.com/564x/f6/37/2b/f6372b3cae43cbe9e56eda15f2877fee.jpg" >
+<img align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/60/74/4d/60744d76f0f23b1d5d012aeca5be9d7f.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgi19092002&label=Profile%20views&color=0e75b6&style=flat" alt="giorgi19092002" /> </p>
 
 - 📫 How to reach me **gberoshvili19@gmail.com**
 
-- ⚡ Fun fact **i am hard-worker**
+- ⚡ Interesting fact **i am hard-worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

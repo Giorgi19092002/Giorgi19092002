@@ -7,7 +7,13 @@
 
 - 📫 How to reach me **gberoshvili19@gmail.com**
 
-- ⚡ Interesting fact **i am hard-worker**
+- Hello i am harder-worker and disciplined person , who loves to work. I am not afraid to new challenges and i am always ready to work.
+
+
+
+
+
+Skills: React / JavaScript / HTML / CSS / Git / TypeScript / Material UI / Sass / Redux / Bootstrap / Social Media Sign-In / API Integrations / Functional Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
